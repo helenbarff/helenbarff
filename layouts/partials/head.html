@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="{{ $.Site.Language.Lang }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <base href="{{ $.Site.BaseURL }}">
+    <title>{{ if .Page.Title }}{{ .Page.Title }} | {{ end }}{{ .Site.Title }}</title>
+    <meta name="author" content="{{ $.Param "author" }}">
+    <meta name="description" content="{{ $.Param "description" }}">
+    <link rel="stylesheet" href="{{ "css/styles.css" | relURL }}"/>
+    <link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Inconsolata:regular|Lato:300|Roboto:300|Source+Sans+Pro:300&amp;subset=latin" media="all" />
+  </head>
+  <body>
+    <div class="page-wrapper">
+      <div class="header">
+        <div class="section clearfix">
+          <div class="name-and-slogan">
+            <div class="site-name">
+              <a href="/" title="Home" rel="home"><span>Helen Barff</span></a>
+            </div>
+          </div>
+          {{ partial "menu.html" . }}
+        </div>
+      </div>
