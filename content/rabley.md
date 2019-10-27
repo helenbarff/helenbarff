@@ -1,5 +1,5 @@
 ---
-title:  "home"
+title:  "rabley"
 ---
 {{< load-photoswipe >}}
 {{<gallery dir="img/gallery/rabley" caption-effect="none" />}}
