@@ -73,7 +73,7 @@ Group show series, Trident Way, Departure Gallery, London, 2009 - 10
 
 Group show, Royal Standard, Liverpool, 2009
 
-Group Show, Raising Ground, BEARSPACE, London 2008   [images](http://www.helenbarff.co.uk/bearspace)
+Group Show, Raising Ground, BEARSPACE, London 2008   [images](/bearspace)
 
 Group Show, Bend in the River, Gainsborough, 2008
 
