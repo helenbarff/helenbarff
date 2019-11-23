@@ -56,3 +56,4 @@ hrefTargetBlank = false
 
 [blackfriday]
     extensions = ["hardLineBreak"]
+    hrefTargetBlank = true
