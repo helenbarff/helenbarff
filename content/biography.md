@@ -11,9 +11,9 @@ BA (hons), Fine Art and Art History, Goldsmiths College, London, 1999
 
 **Solo exhibitions:**
 
-Memory of Clothes, Worthing Museum, February till June 2019  [info](https://worthingmuseum.co.uk/show/memory-of-clothes/)
+Memory of Clothes, Worthing Museum, February till June 2019  [info](https://worthingmuseum.co.uk/show/memory-of-clothes/) [blog](https://www.a-n.co.uk/blogs/memory-and-clothes/)
 
-Rabley Drawing Centre, Wiltshire, 2015  [images](http://www.rableydrawingcentre.com/drawingsandprints/artist/gallery/382/helen-barff/hangers)
+Rabley Drawing Centre, Wiltshire, 2015
 
 Brood, Bend in the River, Gainsborough, 2011
 
@@ -29,9 +29,9 @@ New Works II, selected new graduate, Farnham Maltings, Surrey, 1999
 
 Auto//Fiction, Dyson Gallery, Royal College of Art, London, July 2019
 
-Surface, JGM Gallery, London, May 2018  [JGM Gallery](https://www.jgmgallery.com/surface-1/)
+Surface, JGM Gallery, London, May 2018  [images](https://www.jgmgallery.com/surface-1/)
 
-All the Names, Scrap Metal, Toronto, Canada, October 2017  [Scrap Metal Gallery](http://www.scrapmetalgallery.com/)
+All the Names, Scrap Metal, Toronto, Canada, October 2017  [images](http://www.scrapmetalgallery.com/archive/all-the-names/)
 
 Jerwood Drawing Prize exhibition, Jerwood Space and national tour, September 2017 till 2018
 
@@ -57,7 +57,7 @@ Contemporary Art Society North, Art in the Home, York, August 2014
 
 Matter and Memory, Alison Jacques Gallery, London, January 2014   [images](http://www.alisonjacquesgallery.com/exhibitions/103/installation_shots/)
 
-Open Cube, curated by Adriano Pedrosa, White Cube, Masons Yard, London, 2013   [images](http://whitecube.com/exhibitions/open_cube_masons_yard_2013/)
+Open Cube, curated by Adriano Pedrosa, White Cube, Masons Yard, London, 2013   [images](https://whitecube.com/exhibitions/exhibition/open_cube_masons_yard_2013)
 
 Punk-Salon, Schwartz Gallery, London, 2013
 
@@ -111,7 +111,7 @@ ArtForum, Matter and Memory, by Julia Langbein, 2014   [read review](http://www.
 
 Trebuchet, Matter and Memory: Alison Jacques Gallery, by Francesca Goodwin, 2014   [read review](http://www.trebuchet-magazine.com/matter-memory-alison-jacques-gallery/)
 
-Drawing in the Greyzone by David Vanderburgh, pp 70 to 77, Digital Materiality and the New Relation between Depth and Surface, Futura Publications, Athens 2013 http://www.eaae.be/old/web_data/documents/EAAE_Transactions_48.pdf
+Drawing in the Greyzone by David Vanderburgh, pp 70 to 77, Digital Materiality and the New Relation between Depth and Surface, Futura Publications, Athens 2013
 
 Eyestorm, New Felt Covered Sculptures, by Angie Davey, 2013   [read review](http://www.eyestorm.com/Pages/Magazine.aspx/HELEN_BARFF___%7C___NEW_FELT-COVERED_STONE_SCULPTURAL_WORK/332)
 
@@ -147,11 +147,11 @@ Ravensbourne School, Bromley, 2001
 
 **Selected awards / commissions:**
 
-Grants for the Arts Award, Arts Council England. Memory of Clothes, Worthing. Working with writer Suzanne Joinson and Worthing Museum, 2018 / 19.
+Grants for the Arts Award, Arts Council England. Memory of Clothes, Worthing. Working with writer Suzanne Joinson and Worthing Museum, 2018 / 19. [blog](https://www.a-n.co.uk/blogs/memory-and-clothes)
 
-a-n The Artist Information Company, professional development bursary to fund a period of research exploring connections between autobiographical memory and clothing, 2017  [blog](https://www.a-n.co.uk/blogs/memory-and-clothes)
+a-n The Artist Information Company, professional development bursary to fund a period of research exploring connections between autobiographical memory and clothing, 2017
 
-ACME website commission, Tools, 2013   [images](http://www.acme.org.uk/commissions/websitecommissions)
+ACME website commission, Tools, 2013
 
 Held in the Hand, Leicestershire Artworks, 2009
 
