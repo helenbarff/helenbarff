@@ -11,7 +11,7 @@ BA (hons), Fine Art and Art History, Goldsmiths College, London, 1999
 
 **Solo exhibitions:**
 
-Memory of Clothes, Worthing Museum, February till June 2019  [info](https://worthingmuseum.co.uk/show/memory-of-clothes/) / [blog](https://www.a-n.co.uk/blogs/memory-and-clothes/)
+Memory of Clothes, Worthing Museum, February till June 2019  [info](https://wtam.uk/stories/podcast/memory-of-clothes/) / [blog](https://www.a-n.co.uk/blogs/memory-and-clothes/)
 
 Rabley Drawing Centre, Wiltshire, 2015
 
