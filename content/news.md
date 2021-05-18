@@ -3,7 +3,7 @@ title:  "news"
 ---
 Recent and upcoming:
 
-Solo exhibition: 
+Solo exhibition:
 
 Many and many a day like this, May 27th till June 20th
 
@@ -17,4 +17,4 @@ London E11 1HG
 
 http://stonespace.gallery
 
-![Many and many a day like this](/static/img/manyandmany.jpg)
+![Many and many a day like this](/img/manyandmany.jpg)
