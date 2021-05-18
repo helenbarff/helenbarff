@@ -16,3 +16,5 @@ Leytonstone
 London E11 1HG
 
 http://stonespace.gallery
+
+![Many and many a day like this](manyandmany.jpg)
