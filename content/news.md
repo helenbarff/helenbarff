@@ -1,20 +1,18 @@
 ---
 title:  "news"
 ---
-Recent and upcoming:
+**Recent and upcoming:**
 
-Solo exhibition:
 
-Many and many a day like this, May 27th till June 20th
 
-The Stone Space, Leytonstone
+Solo exhibition, **Many and many a day like this**
 
-Gallery open: Saturdays and Sundays 10 till 4pm
+The Stone Space, London E11 1HG
 
-6 Church Lane
-Leytonstone
-London E11 1HG
+May 27th till June 20th, Saturdays and Sundays 10 till 4pm
 
 http://stonespace.gallery
+
+
 
 ![Many and many a day like this](/img/manyandmany.jpg)
