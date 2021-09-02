@@ -11,7 +11,9 @@ BA (hons), Fine Art and Art History, Goldsmiths College, London, 1999
 
 **Solo exhibitions:**
 
-Memory of Clothes, Worthing Museum, February till June 2019  [info](https://wtam.uk/stories/podcast/memory-of-clothes/) / [blog](https://www.a-n.co.uk/blogs/memory-and-clothes/)
+Many and many a day like this, The Stone Space, London [images](/manyandmanyadaylikethis)
+
+Memory of Clothes, Worthing Museum [blog](https://www.a-n.co.uk/blogs/memory-and-clothes/)
 
 Rabley Drawing Centre, Wiltshire, 2015
 
@@ -26,6 +28,10 @@ New Works II, selected new graduate, Farnham Maltings, Surrey, 1999
 //
 
 **Selected group exhibitions:**
+
+Royal Society of Sculptors, Summer Exhibition, London, 2020, 2021
+
+Feeling for Murmuration, APT Gallery, London, 2020
 
 Auto//Fiction, Dyson Gallery, Royal College of Art, London, July 2019
 

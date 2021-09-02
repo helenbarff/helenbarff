@@ -49,10 +49,6 @@ hrefTargetBlank = false
     name = "instagram"
     url = "https://www.instagram.com/helenbarff/"
     weight = 4
-[[menu.main]]
-    name = "news"
-    url = "/news"
-    weight = 5
 
 [blackfriday]
     extensions = ["hardLineBreak"]
